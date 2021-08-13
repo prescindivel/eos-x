@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=eos-x
+Comment=elementary os theme with mac like window controls
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=eos-x
+MetacityTheme=eos-x
+IconTheme=elementary
+CursorTheme=elementary
+ButtonLayout=menu:close,minimize,maximize
